@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "John Doe"
+git commit -m "sets the mode"
 git push 
