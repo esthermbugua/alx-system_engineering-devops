@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m " Directories"
+git commit -m "More directories"
 git push 
