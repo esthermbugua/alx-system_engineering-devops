@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Bye bye Betty"
+git commit -m "Bye bye My first directory"
 git push 
