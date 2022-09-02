@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Clean Emacs"
+git commit -m "Tree"
 git push 
