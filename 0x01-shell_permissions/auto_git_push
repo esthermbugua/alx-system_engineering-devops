@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "username"
+git commit -m "Groups"
 git push 
