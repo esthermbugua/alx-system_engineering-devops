@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "If only"
+git commit -m "Star Wars"
 git push 
