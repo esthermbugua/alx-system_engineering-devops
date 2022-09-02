@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "sets the permission"
+git commit -m "John Doe"
 git push 
