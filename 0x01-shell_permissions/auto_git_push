@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "execution permission"
+git commit -m "sets the permission"
 git push 
