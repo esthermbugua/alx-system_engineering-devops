@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "sets the mode"
+git commit -m " Directories"
 git push 
